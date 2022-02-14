@@ -44,7 +44,7 @@ def massHypothesis(N, n):
     print("Amount of successes in hypothesis: " + str(successes))
     print("Amount of failures in hypothesis: " + str(failures))
 
-N = 20
+N = 365
 #hypothesis(N)
 n = 1000
 massHypothesis(N,n)
